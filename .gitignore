@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+user_files/
+host_db.json
+web_runtime/
